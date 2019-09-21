@@ -1,5 +1,9 @@
 # todolistapp
 
+App simple todolist hecha con vue.js y guradando los datos en localstorage
+
+<https://vue-todolist-localstorage.herokuapp.com/>
+
 ## Project setup
 ```
 npm install
